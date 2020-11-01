@@ -10,8 +10,8 @@
 
 | set     | Number of sentences     | Number of English words     | Number of Egyptian words     | Number of Levantine words     | Number of MSA words     |
 |---------|-------------------------|-----------------------------|------------------------------|-------------------------------|-------------------------|
-| dev     | 2,997                   | 40,885                      | 37,480                       | 36,362                        | 37,384                  |
-| devtest | 2,997                   | 41,946                      | 37,928                       | 37,928                        | 37,901                  |
+| dev     | 2,997                   | 40,885                      | 37,480                       | 36,362                        |                         |
+| devtest | 2,997                   | 41,946                      | 37,928                       | 37,928                        |                         |
 | test    | 2,994                   | 40,587                      | 38,672                       | 37,187                        | 38,512                  |
 
 The scripts directory contains the preprocessing scripts for the training data as well as the training and evaluation scripts
