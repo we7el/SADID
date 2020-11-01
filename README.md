@@ -15,3 +15,6 @@
 | test    | 2,994                   | 40,587                      | 38,672                       | 37,187                        | 38,512                  |
 
 The scripts directory contains the preprocessing scripts for the training data as well as the training and evaluation scripts
+
+## Acknowledgment
+This work would not have been possible without the generous support of InstaDeep Ltd.
